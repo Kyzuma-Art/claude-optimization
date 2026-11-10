@@ -1,0 +1,15 @@
+{
+  "enabledMcpjsonServers": ["context-mode"],
+  "hooks": {
+    "SessionStart": [{ "hooks": [{ "type": "command", "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/context-mode.sh\" hook", "timeout": 5 }] }],
+    "UserPromptSubmit": [{ "hooks": [{ "type": "command", "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/context-mode.sh\" hook", "timeout": 5 }] }],
+    "PreToolUse": [{
+      "matcher": "^(Bash|PowerShell|Read|Grep|WebFetch|Write|Edit|NotebookEdit|mcp__context-mode__ctx_.*)$",
+      "hooks": [{ "type": "command", "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/context-mode.sh\" hook", "timeout": 5 }]
+    }],
+    "PostToolUse": [{
+      "matcher": "^(Bash|PowerShell|Read|Grep|WebFetch|Write|Edit|NotebookEdit|mcp__plugin_context-mode_context-mode__ctx_.*|mcp__.*)$",
+      "hooks": [{ "type": "command", "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/context-mode.sh\" hook", "timeout": 5 }]
+    }]
+  }
+}

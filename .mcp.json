@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "context-mode": {
+      "command": "bash",
+      "args": ["${CLAUDE_PROJECT_DIR:-.}/.claude/context-mode.sh", "server"]
+    }
+  }
+}
