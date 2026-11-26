@@ -12,7 +12,7 @@ anywhere. Stop at the page before payment and give me the link.
 ## Trip facts
 
 - Travelers: 3 adults (me and my two parents, who have not had a holiday in 20 years).
-- Start: Frankfurt. Airports allowed: FRA, HHN (Frankfurt-Hahn). Train from Frankfurt Hbf also allowed.
+- Start: Frankfurt. Airports allowed: FRA, HHN (Frankfurt-Hahn).
 - Length: 7 nights.
 - Dates: flexible. Target window: 18 September to 2 October 2027
   (after summer, before Hessen autumn holidays 4-16 Oct 2027). Second choice: 1-20 June 2027.
