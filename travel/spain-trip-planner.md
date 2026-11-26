@@ -1,4 +1,4 @@
-# Spain trip planner: Claude in Chrome workflow
+# Crete / Spain trip planner: Claude in Chrome workflow
 
 Paste everything below the line into Claude (with Claude in Chrome enabled).
 Edit the "Trip facts" block first if anything changed.
@@ -22,33 +22,35 @@ anywhere. Stop at the page before payment and give me the link.
 - Sleeping: ideal is one apartment with a double room + a separate single room
   (2 bedrooms). Minimum: 3 separate beds. No sofa bed for my parents.
 - Budget: no hard cap. Goal is best value: cheapest option that is still genuinely nice.
-- Luggage: assume 1 checked bag (20-23 kg) per person, plus hand luggage.
+- Luggage: backpack only, one free personal item per person (under-seat size, e.g. 40x30x20 cm).
+  No checked bags, no paid cabin trolley. Check each airline's free-item size and flag any airline
+  where the free item is smaller than 40x30x20 cm.
+- Food: we cook all dinners and breakfasts in the apartment, so a full kitchen is required.
 
 ## Destinations to compare (in this order)
 
-1. Costa del Sol east: Nerja, Torrox Costa, Almuñécar. Airport: Málaga (AGP).
-2. Costa Blanca north: Altea, Jávea/Xàbia, Calpe, Dénia. Airport: Alicante (ALC) or Valencia (VLC).
-3. Mallorca east/south-east coast: Cala d'Or, Porto Cristo, Cala Ratjada (avoid Arenal/Magaluf). Airport: Palma (PMI).
+1. Crete west: Chania old town area, Rethymno, nearby beach villages (Kalyves, Almyrida, Platanias).
+   Airports: Chania (CHQ) preferred, Heraklion (HER) as alternative.
+2. Costa del Sol east (backup): Nerja, Torrox Costa. Airport: Málaga (AGP).
 
-Skip a destination early if it is clearly 30%+ more expensive than the others for the same quality.
+Skip the backup early if it is clearly 20%+ more expensive than Crete for the same quality.
 
 ## Steps
 
 1. **Transport.**
    - Flights: search Google Flights (google.com/travel/flights) for 3 adults, round trip,
-     FRA and HHN to AGP, ALC, VLC, PMI. Use the date grid / price graph to find the cheapest
-     7-night pair inside the target window. Add checked-bag fees for each airline
-     (check the airline site, not only Google).
-   - Train: check one example on bahn.de / SNCF Connect for Frankfurt to Barcelona/Valencia
-     for 3 adults. Only keep it if total cost is within 15% of flying.
+     FRA and HHN to CHQ, HER, AGP. Use the date grid / price graph to find the cheapest
+     7-night pair inside the target window. Use the cheapest fare that includes a free
+     personal item (backpack). Confirm the free-item size on the airline site, not only Google.
 2. **DIY accommodation.** For the 3 cheapest flight date pairs, search Booking.com and
-   Airbnb for 2-bedroom apartments (double + single, or 3 separate beds), rating 8.5+/4.7+,
+   Airbnb for 2-bedroom apartments with a full kitchen (double + single, or 3 separate beds), rating 8.5+/4.7+,
    walking distance to beach or old town. Record total price including cleaning fee and taxes.
 3. **Packages.** Search Check24 Pauschalreisen, TUI and HolidayCheck for the same dates and
    destinations: flight from FRA + 7 nights, apartment or hotel with 1 double + 1 single room
    (or a family room/suite for 3). Note what is included (transfer, baggage, meals).
-4. **Local costs.** Estimate airport transfer or 7-day rental car (check one rental site),
-   plus food at about €35-50 per person per day.
+4. **Local costs.** Price a 7-day small rental car with full insurance (check one rental site;
+   in Crete a car is close to required). Food: groceries for breakfast and dinner plus one
+   cheap lunch or snack out per day, about €25-30 per person per day.
 5. **Compare.** Build one table, cheapest total first:
 
    | Rank | Destination | Dates | DIY or package | Transport € | Stay € | Transfer/car € | Food est. € | Total € | Per person € | Why it is nice | Links |
